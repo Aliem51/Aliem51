@@ -1,4 +1,4 @@
-# Aliem51 — Game Developer & Software Developer
+# Shynggys Demeu — Game Developer & Software Developer
 
 [🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md)
 
